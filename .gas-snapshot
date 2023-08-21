@@ -1,0 +1,6 @@
+StateDeployedTest:testChangeOwner(address) (runs: 256, μ: 32623, ~: 32623)
+StateDeployedTest:testInitialise() (gas: 20804)
+StateDeployedTest:testProxyRegister(string) (runs: 256, μ: 50049, ~: 50109)
+StateDeployedTest:testProxyRelease(string) (runs: 256, μ: 37150, ~: 37192)
+StateZeroTest:testDeploy() (gas: 128769)
+StateZeroTest:testDeployDifferingSalt() (gas: 128685)
